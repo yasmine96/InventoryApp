@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Inventory App</string>
+    <string name="empty_view_title_text">iam free here...</string>
+    <string name="empty_view_subtitle_text">Add products to our App</string>
+    <!-- Label for editor menu option to save pet and leave editor [CHAR LIMIT=20] -->
+    <string name="action_save">Save</string>
+
+    <!-- Label for editor overflow menu option that deletes the current pet [CHAR LIMIT=20] -->
+    <string name="action_delete">Delete</string>
+
+    <!-- Label for overview category of attributes in the editor [CHAR LIMIT=30] -->
+    <string name="category_overview">Overview</string>
+
+    <!-- Label for gender information in the editor [CHAR LIMIT=30] -->
+    <string name="category_availability">Available</string>
+
+    <!-- Label for measurement information in the editor [CHAR LIMIT=30] -->
+    <string name="category_measurement">Measurement</string>
+
+    <!-- Text hint for name field in the editor [CHAR LIMIT=30] -->
+    <string name="product_name">Name</string>
+
+    <!-- Text hint for breed field in the editor [CHAR LIMIT=30] -->
+    <string name="product_price">price</string>
+
+    <!-- Label for dropdown menu option if the product is available is in_stock [CHAR LIMIT=20] -->
+    <string name="available">in_stock</string>
+
+    <!-- Label for dropdown menu option if the product is unavailable [CHAR LIMIT=20] -->
+    <string name="unavailable">out_stock</string>
+
+    <!-- Toast message in editor when new pet has been successfully inserted [CHAR LIMIT=NONE] -->
+    <string name="editor_insert__product_successful">_product saved</string>
+
+    <!-- Toast message in editor when new pet has failed to be inserted [CHAR LIMIT=NONE] -->
+    <string name="editor_insert_product_failed">Error with saving product</string>
+
+</resources>
